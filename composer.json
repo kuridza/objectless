@@ -1,4 +1,9 @@
 {
+    "name": "kuridza/objectless",
+    "description": "php framework",
+    "authors": [{
+        "name": "Nikola Kuridza"
+    }],
     "autoload": {
         "classmap": ["e/"]
     },
